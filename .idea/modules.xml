@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Programming-Practice/e.Loop/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Programming-Practice/e.Loop/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programming-Practice.iml" filepath="$PROJECT_DIR$/.idea/Programming-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming-Practice/Simple/Simple.iml" filepath="$PROJECT_DIR$/Programming-Practice/Simple/Simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming-Practice/StreamApi/StreamApi.iml" filepath="$PROJECT_DIR$/Programming-Practice/StreamApi/StreamApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming-Practice/a.VariableAndDatatypes/a.VariableAndDatatypes.iml" filepath="$PROJECT_DIR$/Programming-Practice/a.VariableAndDatatypes/a.VariableAndDatatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming-Practice/b.TypeConversion/b.TypeConversion.iml" filepath="$PROJECT_DIR$/Programming-Practice/b.TypeConversion/b.TypeConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming-Practice/c.Operators/c.Operators.iml" filepath="$PROJECT_DIR$/Programming-Practice/c.Operators/c.Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming-Practice/d.CondtionalStatement/d.CondtionalStatement.iml" filepath="$PROJECT_DIR$/Programming-Practice/d.CondtionalStatement/d.CondtionalStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming-Practice/e.Loop/e.Loop.iml" filepath="$PROJECT_DIR$/Programming-Practice/e.Loop/e.Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming-Practice/f.Pattern/f.Pattern.iml" filepath="$PROJECT_DIR$/Programming-Practice/f.Pattern/f.Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming-Practice/g.FunctionMethods/g.FunctionMethods.iml" filepath="$PROJECT_DIR$/Programming-Practice/g.FunctionMethods/g.FunctionMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming-Practice/h.Arrays/h.Arrays.iml" filepath="$PROJECT_DIR$/Programming-Practice/h.Arrays/h.Arrays.iml" />
+    </modules>
+  </component>
+</project>
